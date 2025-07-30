@@ -4,7 +4,6 @@ A practice project implementing **Redux Toolkit (RTK)** for a scalable e-commerc
 - ✅ User authentication (login/logout)  
 - 🛍️ Cart operations (add/remove/update items)  
 - 🔄 State persistence (optional)  
-- 🧪 Unit tests (Jest + React Testing Library)  
 
 ![Demo GIF](./public/demo.gif) *Replace with your actual demo image*  
 
@@ -12,7 +11,7 @@ A practice project implementing **Redux Toolkit (RTK)** for a scalable e-commerc
 - React 18  
 - Redux Toolkit (RTK)  
 - React Router v6  
-- CSS Modules / Tailwind (optional)  
+- CSS Modules 
 
 ## **Features**  
 ### **1. Redux-Powered Cart**  
