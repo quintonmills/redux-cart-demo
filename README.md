@@ -5,8 +5,6 @@ A practice project implementing **Redux Toolkit (RTK)** for a scalable e-commerc
 - 🛍️ Cart operations (add/remove/update items)  
 - 🔄 State persistence (optional)  
 
-![Demo GIF](./public/demo.gif) *Replace with your actual demo image*  
-
 ## **Tech Stack**  
 - React 18  
 - Redux Toolkit (RTK)  
